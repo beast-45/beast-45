@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beast-45
 - 👀 I’m interested in Software and App development
 - 🌱 I’m currently sharpening my DS Algo skills
-- 💞️ I’m looking to collaborate on Web Development projects
+- 💞️ I’m looking to collaborate on Web Development projects as well as Android Develeopment projects.
 - 📫 How to reach me manishvermaa45@gmail.com
 - ![](https://leetcard.jacoblin.cool/beast45?animation=false)
 
