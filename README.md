@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beast-45
+- 👋 Hi, I’m Manish Vemra aka Beast45
 - 👀 I’m interested in Software and App development
 - 🌱 I’m currently sharpening my DS Algo skills
 - 💞️ I’m looking to collaborate on Web Development projects as well as Android Develeopment projects.
