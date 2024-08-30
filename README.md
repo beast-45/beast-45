@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 - 👋 Hi, I’m Manish Vemra aka Beast45<br>- 👀 I’m interested in Software and App development<br>- 🌱 I’m currently sharpening my DS Algo skills<br>- 💞️ I’m looking to collaborate on Web Development projects as well as Android Develeopment projects.<br>- 📫 How to reach me manishvermaa45@gmail.com<br><br>- ![](https://leetcard.jacoblin.cool/beast45?animation=false)
 
 
