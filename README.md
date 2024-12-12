@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=beast-45&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=beast-45)
