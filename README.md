@@ -14,7 +14,7 @@
 - Implementing **Jetpack Compose** for UI development
 - Exploring **DSA and problem-solving**, with **450+ problems solved on LeetCode**
 
-🔍 Currently, I'm diving deep into **Jetpack Compose, coroutines, and advanced app architectures** while also sharpening my **DSA skills**.
+🔍 Currently, I'm diving deep into **KMM , Jetpack Compose, coroutines , and advanced app architectures** along with sharpening my **DSA skills**.
 
 💼 Open to collaborations on **Android projects, Kotlin development, and innovative app ideas**.
 
