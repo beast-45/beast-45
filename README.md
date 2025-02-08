@@ -9,6 +9,7 @@
 - 👋 Hi, I'm Manish Verma<br>- 👀 I’m interested in Software and App development<br>- 🌱 I’m currently sharpening my DS Algo skills<br>- 💞️ I’m looking to collaborate on Web Development projects as well as Android Development projects.<br>- 📫 How to reach me manishvermaa45@gmail.com<br><br>
 ![](https://komarev.com/ghpvc/?username=beast-45)
 
+# LeetCode Stats:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/beast45?animation=false" />
 </p>
@@ -28,3 +29,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beast-45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
