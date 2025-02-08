@@ -21,9 +21,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beast-45&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beast-45&theme=dark&hide_border=false"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beast-45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
