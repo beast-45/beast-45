@@ -15,7 +15,7 @@
 # Skills:
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,js,androidstudio,figma,firebase,mysql,git,github,gradle,idea,stackoverflow,windows&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,js,androidstudio,vscode,figma,firebase,mysql,git,github,gradle,idea,stackoverflow,windows&perline=7)](https://skillicons.dev)
 
 
 
