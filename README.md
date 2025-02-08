@@ -6,8 +6,20 @@
 </p>
 
 # About Me:
-- 👋 Hi, I'm Manish Verma<br>- 👀 I’m interested in Software and App development<br>- 🌱 I’m currently sharpening my DS Algo skills<br>- 💞️ I’m looking to collaborate on Web Development projects as well as Android Development projects.<br>- 📫 How to reach me manishvermaa45@gmail.com<br><br>
-![](https://komarev.com/ghpvc/?username=beast-45)
+🚀 Passionate Android and App Developer with a strong foundation in **Kotlin, Jetpack Compose, and MVVM architecture**. I enjoy building dynamic and scalable mobile applications with an emphasis on **clean code, efficiency, and user experience**.
+
+💡 I have hands-on experience in:
+- Developing **feature-rich Android apps** using modern development practices
+- Working with **Firebase, Room Database, and Retrofit** to integrate real-time data and APIs
+- Implementing **Jetpack Compose** for UI development
+- Exploring **DSA and problem-solving**, with **450+ problems solved on LeetCode**
+
+🔍 Currently, I'm diving deep into **Jetpack Compose, coroutines, and advanced app architectures** while also sharpening my **DSA skills**.
+
+💼 Open to collaborations on **Android projects, Kotlin development, and innovative app ideas**.
+
+📬 Reach me at: **manishvermaa45@gmail.com**
+
 
 # LeetCode Stats:
 <p align="center">
