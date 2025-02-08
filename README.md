@@ -11,7 +11,7 @@
 
 # LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/beast45?animation=false" />
+  <img src="https://leetcard.jacoblin.cool/beast45?animation=true" />
 </p>
 
 # Skills:
