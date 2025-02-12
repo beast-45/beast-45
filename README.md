@@ -13,7 +13,7 @@
 💡 I have hands-on experience in:
 - Developing **feature-rich Android apps** using modern development practices
 - Working with **Firebase, Room Database, and Retrofit** to integrate real-time data and APIs
-- Implementing **Jetpack Compose** for UI development
+- Implementing **XML & Jetpack Compose** for UI development
 - Exploring **DSA and problem-solving**, with **450+ problems solved on LeetCode**
 
 🔍 Currently, I'm diving deep into **KMM , Jetpack Compose, coroutines , and advanced app architectures** along with sharpening my **DSA skills**.
