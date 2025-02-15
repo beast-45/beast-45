@@ -30,7 +30,7 @@
 
 # Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,js,androidstudio,vscode,figma,firebase,mysql,git,github,gradle,idea,stackoverflow,windows&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,js,androidstudio,vscode,figma,firebase,mysql,git,github,gradle,idea,stackoverflow,windows&perline=15)](https://skillicons.dev)
 
 # GitHub Stats:
 <p align="center">
