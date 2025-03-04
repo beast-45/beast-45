@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=beast-45)
 
-# About Me:
+# About Me   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;:
 🚀 Passionate Android and App Developer with a strong foundation in **Kotlin, Jetpack Compose, and MVVM architecture**. I enjoy building dynamic and scalable mobile applications with an emphasis on **clean code, efficiency, and user experience**.
 
 💡 I have hands-on experience in:
