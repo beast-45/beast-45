@@ -23,16 +23,16 @@
 📬 Reach me at: **manishvermaa45@gmail.com**
 
 
-# LeetCode Stats:
+<h1 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> LeetCode Stats</h1>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/beast45?animation=true" />
 </p>
 
-# Skills:
+<h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,js,androidstudio,vscode,figma,firebase,mysql,git,github,gradle,idea,stackoverflow,windows&perline=15)](https://skillicons.dev)
 
-# GitHub Stats:
+<h1 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beast-45&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beast-45&theme=dark&hide_border=false" width="49%"/>
