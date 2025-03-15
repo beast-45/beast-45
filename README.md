@@ -33,12 +33,19 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,js,androidstudio,vscode,figma,firebase,postgres,mysql,git,github,gradle,idea,stackoverflow,windows&perline=16)](https://skillicons.dev)
 
 <h1 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h1>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=beast-45&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=beast-45&theme=highcontrast&hide_border=false" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beast-45&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beast-45&theme=highcontrast&hide_border=false" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-45&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast-45&theme=highcontrast&hide_border=false&layout=compact"/>
 </p>
 
 ## 🏆 GitHub Trophies
