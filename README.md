@@ -14,9 +14,9 @@
 - Developing **feature-rich Android apps** using modern development practices
 - Working with **Firebase, Room Database, and Retrofit** to integrate real-time data and APIs
 - Implementing **XML & Jetpack Compose** for UI development
-- Exploring **DSA and problem-solving**, with **550+ problems solved on LeetCode**
+- Exploring **DSA and problem-solving**, with **650+ problems solved on LeetCode**
 
-🔍 Currently, I'm diving deep into **KMM , Jetpack Compose, coroutines , and advanced app architectures** along with sharpening my **DSA skills**.
+🔍 Currently, I'm diving deep into **React Native for iOS , Jetpack Compose, coroutines , and advanced app architectures** along with sharpening my **DSA skills**.
 
 💼 Open to collaborations on **Android projects, Kotlin development, and innovative app ideas**.
 
