@@ -8,15 +8,16 @@
 ![](https://komarev.com/ghpvc/?username=beast-45)
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp; About Me:
-🚀 Passionate Android and iOS App Developer with a strong foundation in **Kotlin, Jetpack Compose, and MVVM architecture**. I enjoy building dynamic and scalable mobile applications with an emphasis on **clean code, efficiency, and user experience**.
+🚀 Passionate Android and iOS App Developer with a strong foundation in **Kotlin, Jetpack Compose, and MVVM architecture & Java Full Stack**. I enjoy building dynamic and scalable mobile & Web applications with an emphasis on **clean code, efficiency, and user experience**.
 
 💡 I have hands-on experience in:
 - Developing **feature-rich Android apps** using modern development practices
 - Working with **Firebase, Room Database, and Retrofit** to integrate real-time data and APIs
 - Implementing **XML & Jetpack Compose** for UI development
-- Exploring **DSA and problem-solving**, with **700+ problems solved on LeetCode**
+- Exploring **DSA and problem-solving**, with **750+ problems solved on LeetCode**
+- Building scalable Web Apps using Spring Boot and React/Angular
 
-🔍 Currently, I'm diving deep into **React Native for iOS , Jetpack Compose, coroutines , and advanced app architectures** along with sharpening my **DSA skills**.
+🔍 Currently, I'm diving deep into **React Native for iOS , coroutines , Java and Spring Boot with Angular for frontend** along with sharpening my **DSA skills**.
 
 💼 Open to collaborations on **Android projects, Kotlin development, and innovative app ideas**.
 
