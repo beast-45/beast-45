@@ -31,7 +31,7 @@
 
 <h1 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,ts,css,react,tailwind,androidstudio,vscode,webstorm,idea,figma,spring,firebase,postgres,mysql,git,github,gradle,stackoverflow,windows&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,ts,angular,react,css,react,tailwind,androidstudio,vscode,webstorm,idea,figma,spring,firebase,postgres,mysql,git,github,gradle,stackoverflow,windows&perline=10)](https://skillicons.dev)
 
 <h1 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h1>
 <table>
