@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manish Verma <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='40'></h1>
+<h1 align="center">Hi, I'm Manish Verma <img src='https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif' width='40'></h1>
 <h3 align="center">An enthusiast in Android, iOS and Java Full-Stack.</h3>
 
 <p align="center">
