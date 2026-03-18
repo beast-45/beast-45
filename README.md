@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiast in Android, iOS and Java Full-Stack.</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dqNGRybWx0bmxzdWFqeHlxc2JrenZkc2g5Y282Nnp0OGM5MGU5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width='700' height='500'/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dqNGRybWx0bmxzdWFqeHlxc2JrenZkc2g5Y282Nnp0OGM5MGU5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width='700' height='400'/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=beast-45)
